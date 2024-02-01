@@ -1,4 +1,4 @@
-**Report: Automated Machine Learning in Azure Machine Learning**
+## **Report: Automated Machine Learning in Azure Machine Learning**
 
 **Introduction:**
 
